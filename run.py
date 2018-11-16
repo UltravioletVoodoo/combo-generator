@@ -19,10 +19,10 @@ def start():
 		heroes.append(random.choice(heroList))
 	
 	for x in range(len(heroes)):
-		print("HERO " + str(x + 1) + ":")
+		print("\nHERO " + str(x + 1) + ":")
 		print("---------------------------")
 		print(heroes[x].name + " | " + heroes[x].role)
-		print("---------------------------\n\n")
+		print("---------------------------\n")
 	
 	
 	
