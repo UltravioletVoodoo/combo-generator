@@ -1,9 +1,14 @@
 # combo-generator
 Generates random hero combinations for dota 2.
 
-## Sample input/output
-run with `python run.py <int>`. The `int` parameter is defaulted to 1 if none is given
+## Dependencies
+- Python 3
 
+## Running the combo-generator
+run with `python run.py <int>`  
+The `int` parameter is defaulted to 1 if none is given
+
+## Sample input/output
 Input: `python run.py 3`  
 Sample Output:
 ```
