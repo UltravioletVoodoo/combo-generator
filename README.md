@@ -4,7 +4,7 @@ Generates random hero combinations for dota 2.
 ## Sample input/output
 run with `python run.py <int>` the `int` parameter is defaulted to 1 if none is given
 
-Input: `python run.py 3`
+Input: `python run.py 3`  
 Sample Output:
 ```
 
